@@ -275,6 +275,7 @@ It's on GitHub for a reason! Please submit pull requests.
 
 | Service | Twitter | Pricing | Description |
 |:--------|:--------|:--------|:------------|
+| [LoginRadius](https://www.loginradius.com)|[@LoginRadius](https://twitter.com/LoginRadius)| Free - $39/mo (developer) | LoginRadius is a customer identity and management solution, provides authentication, SSO solutions, user management, data security and even cloud integrations to your website. Beginner friendly as well, provides code-free implementation.|
 | [Okta](https://developer.okta.com/) | [@OktaDev](https://twitter.com/OktaDev) | Free | Okta adds authentication, authorization, and user management to your web or mobile app within minutes. |
 | [Auth0](https://auth0.com) | [@auth0](https://twitter.com/auth0) | - | - |
 | [Connect2id](https://c2id.net) | [@Connect2id](https://twitter.com/connect2id) | €299/mo - €999/mo | Hosted Connect2id server – a flexible, secure and certified OpenID Connect/OAuth 2.0 identity provider. |
